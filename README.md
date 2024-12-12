@@ -1,2 +1,2 @@
-# senior-project
-Automatic rear view mirror
+# Automatic rear view mirror
+
